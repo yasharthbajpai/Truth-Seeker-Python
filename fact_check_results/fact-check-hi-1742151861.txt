@@ -1,0 +1,14 @@
+FACT CHECK RESULTS
+=================
+
+CLAIM: hi
+
+VERDICT: Undetermined
+
+EXPLANATION:
+The query "hi" does not contain any factual claims or information to verify. It is simply a greeting and does not require fact-checking.
+
+CORRECTIONS:
+No corrections are necessary as there was no factual information provided to check.
+
+Timestamp: 2025-03-17 00:34:21
